@@ -1,29 +1,59 @@
-# Lanchonete-EngenhariaDeSoftware
+🍔 Lanchonete - Engenharia de Software
+📌 Descrição do Projeto
 
-Projeto Lanchonete
+A Lanchonete deseja informatizar parte do seu atendimento.
+Atualmente, os pedidos são feitos em papel e o controle de produtos é manual, o que gera erros e demora no processo.
 
-A Lanchonete Universitária deseja informatizar parte do seu atendimento. Atualmente, os pedidos são feitos em papel e o controle dos produtos é manual, o que gera erros e demora no processo.
-O novo sistema deve permitir:
+O novo sistema busca resolver esses problemas, oferecendo um fluxo mais ágil e confiável.
 
-Atendimento: O atendente registra os pedidos dos clientes, selecionando produtos do cardápio (sanduíches, bebidas, sobremesas).
-Pagamento: O cliente escolhe a forma de pagamento (dinheiro, cartão ou PIX).
-Produção: A cozinha recebe os pedidos em tempo real para preparar os itens solicitados.
+🎯 Funcionalidades do Sistema
+
+Atendimento: Registro de pedidos com seleção de produtos do cardápio (sanduíches, bebidas, sobremesas).
+
+Pagamento: Opções de pagamento em dinheiro, cartão ou PIX.
+
+Produção: A cozinha recebe os pedidos em tempo real para preparo.
+
 Entrega: O atendente notifica o cliente quando o pedido estiver pronto.
-Relatórios: O gerente pode visualizar relatórios simples de vendas diárias.
-Os papéis identificados são:
-Cliente: faz o pedido e paga.
-Atendente: registra pedidos, recebe pagamentos, entrega pedidos.
-Cozinha: recebe pedidos para preparo.
-Gerente: consulta relatórios de vendas.
 
-O sistema deve ser simples e entregue em duas etapas (duas sprints).
+Relatórios: O gerente acessa relatórios simples de vendas diárias.
 
-Etapas:
-Extrair casos de uso essenciais 
-Criar backlog em formato de histórias de usuário no GitHub Projects:
-Colunas: Backlog, ToDo, Doing, Review e Done
-Planejar duas sprints 
-Em cada sprint fazer os casos de uso expandidos.
-Simular execução das sprints com telas desenhadas no papel
-Fazer o fechamento da sprints e apresentar ao cliente (professor)
-Entrega do projeto
+👥 Papéis Identificados
+
+Cliente: Faz o pedido e realiza o pagamento.
+
+Atendente: Registra pedidos, recebe pagamentos e entrega os pedidos.
+
+Cozinha: Recebe pedidos para preparo.
+
+Gerente: Consulta relatórios de vendas.
+
+📌 Etapas do Projeto
+
+Extrair casos de uso essenciais.
+
+Criar backlog em formato de histórias de usuário no GitHub Projects, com as colunas:
+
+Backlog
+
+To Do
+
+Doing
+
+Review
+
+Done
+
+Planejar duas sprints.
+
+Em cada sprint:
+
+Detalhar os casos de uso expandidos.
+
+Simular execução das sprints com telas desenhadas no papel.
+
+Fechamento das sprints e apresentação ao cliente (professor).
+
+🚀 Metodologia
+
+O projeto será desenvolvido de forma iterativa e incremental, em duas sprints, utilizando ferramentas de versionamento e gestão de tarefas no GitHub.
